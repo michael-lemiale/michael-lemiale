@@ -9,12 +9,15 @@ My full time passion is enabling world class analytics. I strive to uplift my pe
 
 ## 🛠️ Technologies & Tools
 - Languages: [Python, JavaScript, TypeScript, SQL]
-- Databases: [Snowflake, Redshift, BigQuery, Postgres, MySQL, SQLServer, DuckDB]
-- Orchestration: [Airflow, Prefect, Dagster, Github Actions, Gitlab Pipelines]
-- Infrastructure: [Terraform, Docker, Kubernetes]
+- Data Warehouses: [Snowflake, Redshift, BigQuery]
+- Databases: [Postgres, MySQL, SQLServer, DuckDB]
+- Orchestration: [Airflow, Prefect, Dagster]
+- Infrastructure: [Terraform, Docker, Kubernetes, Github Actions, Gitlab Pipelines, Titan]
 - Frameworks: [Pandas, NumPy, React, Next.js, Node.js]
-- Data Tools: [dbt, sling, dlt, Meltano, Stitch, Fivetran, Hightouch, Census, Monte Carlo, Metaplane, Spectacles, Titan]
-- Analytics: [Looker, Tableau, PowerBI]
+- Data Transformation: [dbt-core, dbt Cloud]
+- ETL: [sling, dlthub, Meltano, Stitch, Fivetran, Hightouch, Census]
+- Data Observability: [Monte Carlo, Metaplane, Spectacles]
+- Analytics: [Looker, Tableau, Metabase, PowerBI, Mode]
 - Cloud: [AWS, GCP]
 
 ---
